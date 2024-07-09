@@ -1,4 +1,4 @@
-## Hi, I’m @WontJump ## 
+## Hi, I’m @WontJump 
 - I’m interested in mathematics, modelling of public transport and infrastructure data.
 - I'm currently studying mathematics at the University of Oxford
 - Funfact ... I have no idea how to use github

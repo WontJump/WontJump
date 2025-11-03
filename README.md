@@ -1,5 +1,5 @@
 # Hi, I’m @WontJump 
-- I’m interested in mathematics, modelling of human behaviour and data analytics 
+- I’m interested in mathematics, Probability (epistemology) and Category theory! 
 - I'm currently studying mathematics at the University of Oxford
 - Funfact ... I'm studying algebraic topology... but I still can't do my times tables... 
   

@@ -1,6 +1,6 @@
 # Hi, I’m @WontJump 
 - I’m interested in mathematics, Probability (epistemology) and Category theory! 
-- I've completed my mathematics and now computerscience masters degree at the University of Oxford (distinction woo!)
+- I've completed my mathematics and computerscience masters at the University of Oxford (distinction woo!)
 - Funfact... I now know 6 different proofs of the Radon-Nikodym theorem! 
 
 

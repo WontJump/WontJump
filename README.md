@@ -5,7 +5,7 @@
 
 
 
-# Old fun facts
+**Old fun facts**
 - Funfact ... I'm studying algebraic topology... but I still can't do my times tables... 
   
 
